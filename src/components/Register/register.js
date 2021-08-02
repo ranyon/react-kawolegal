@@ -7,7 +7,7 @@ import './register.css'
 
 import React from 'react';
 
-const Rejister = () => {
+const Registter = () => {
     return (
         <>
             <div class="row statup_container">
@@ -160,4 +160,4 @@ const Rejister = () => {
     );
 }
 
-export default Rejister;
+export default Registter;
