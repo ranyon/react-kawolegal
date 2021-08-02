@@ -1,6 +1,6 @@
 import HomePage from './components/Homepage';
 import StartUps from './components/Startups/startups';
-import Register from './components/Register/register';
+import Registter from './components/Register/register';
 import Login from './components/Login/login';
 import React from 'react';
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
@@ -21,7 +21,7 @@ function App() {
 
 
           <Route path = "/register">
-              <Register/>
+              <Registter/>
           </Route>
 
           <Route path = "/login">
