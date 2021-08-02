@@ -2,9 +2,9 @@ import React from 'react';
 import './startups.css';
 import { Link} from "react-router-dom";
 import Logo from "../img/logo.png";
-import think from "../../Images/think.png";
-import slate from "../../Images/slate.png";
-import sleek from "../../Images/sleek.png";
+import think from "../img/think.png";
+import slate from "../img/slate.png";
+import sleek from "../img/sleek.png";
 
 
 
