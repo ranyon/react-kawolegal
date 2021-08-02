@@ -1,7 +1,7 @@
 import React from 'react';
 import './startups.css';
 import { Link} from "react-router-dom";
-import Logo from "../../Images/logo.png";
+import Logo from "../img/logo.png";
 import think from "../../Images/think.png";
 import slate from "../../Images/slate.png";
 import sleek from "../../Images/sleek.png";
