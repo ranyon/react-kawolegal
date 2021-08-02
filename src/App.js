@@ -1,4 +1,4 @@
-import HomePage from './components/Homepage';
+import HomePage from './components/Homepage/home';
 import StartUps from './components/Startups/startups';
 import Registter from './components/Register/register';
 import Login from './components/Login/login';
